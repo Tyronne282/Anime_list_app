@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anime List</string>
+    <string name="add_activity">Add New Video Game</string>
+    <string name="anime_title">Anime Title</string>
+    <string name="studio">Studio</string>
+    <string name="season_release_year">Release Year</string>
+    <string name="add_anime">Add Anime</string>
+    <string name="update_anime">Update Details</string>
+    <string name="delete_anime">Delete Anime</string>
+    <string name="toggle_dark_theme">Toggle Dark Theme</string>
+</resources>
